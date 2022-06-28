@@ -1,0 +1,1 @@
+web: gunicorn lucas_trans.wsgi
