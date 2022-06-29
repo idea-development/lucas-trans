@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 115 26" style="enable-background:new 0 0 115 26;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#6169FF;}
+	.st1{fill:#FF5573;}
+	.st2{fill:#FFC043;}
+	.st3{fill:#FFFFFF;stroke:#000000;stroke-width:0.25;stroke-miterlimit:10;}
+	.st4{font-family:'MyriadPro-Regular';}
+	.st5{font-size:22.3313px;}
+</style>
+<path class="st0" d="M18.7,10.1V26H1.4C0.6,26,0,25.4,0,24.6c0,0,0,0,0,0V10.1H18.7z"/>
+<path class="st1" d="M28.7,10.1v14.4c0,0.8-0.6,1.4-1.4,1.4c0,0,0,0,0,0h-5.7V10.1H28.7z"/>
+<path class="st2" d="M27.3,0c0.8,0,1.4,0.6,1.4,1.4c0,0,0,0,0,0v5.8H0V1.4C0,0.6,0.6,0,1.4,0c0,0,0,0,0,0H27.3z"/>
+<text transform="matrix(0.6627 0 0 1 36.4255 19.5325)" class="st3 st4 st5">Lucas Trans</text>
+</svg>
